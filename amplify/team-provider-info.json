@@ -33,6 +33,11 @@
             "UnauthRoleName": "noteswithamplify-dev-20190612033109-unauthRole",
             "StackName": "noteswithamplify-dev-20190612033109",
             "StackId": "arn:aws:cloudformation:us-east-1:217834298957:stack/noteswithamplify-dev-20190612033109/84f6ed70-8cc2-11e9-b122-0e3e6f4b77b8"
+        },
+        "categories": {
+            "auth": {
+                "noteswithamplify97373ccc": {}
+            }
         }
     }
 }
